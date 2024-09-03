@@ -2,7 +2,9 @@
 
 A classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. This project offers a sleek, responsive design and smooth gameplay for two players.
 
-![Tic Tac Toe Game](https://your-image-url-here.com/tic-tac-toe-screenshot.png)
+![Tic Tac Toe Game](/Screenshots/Capture.PNG)
+![Tic Tac Toe Game](/Screenshots/Capture2.PNG)
+
 
 ## Table of Contents
 
@@ -94,4 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Saket
